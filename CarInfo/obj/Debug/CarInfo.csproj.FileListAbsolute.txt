@@ -1,0 +1,7 @@
+c:\users\reenee1\source\repos\CarInfo\CarInfo\bin\Debug\CarInfo.exe.config
+c:\users\reenee1\source\repos\CarInfo\CarInfo\bin\Debug\CarInfo.exe
+c:\users\reenee1\source\repos\CarInfo\CarInfo\bin\Debug\CarInfo.pdb
+c:\users\reenee1\source\repos\CarInfo\CarInfo\obj\Debug\CarInfo.csprojResolveAssemblyReference.cache
+c:\users\reenee1\source\repos\CarInfo\CarInfo\obj\Debug\CarInfo.csproj.CoreCompileInputs.cache
+c:\users\reenee1\source\repos\CarInfo\CarInfo\obj\Debug\CarInfo.exe
+c:\users\reenee1\source\repos\CarInfo\CarInfo\obj\Debug\CarInfo.pdb
